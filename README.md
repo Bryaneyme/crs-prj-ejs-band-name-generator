@@ -5,7 +5,8 @@ Shit's getting serious!!!!
 
 I can now:
 - Use a templating language to interact with a Node/Express back-end system
-- Use static files with EJS
+- Use static files with EJS (learned basic transitioning and pseudo-classes in css as well)
 - Handle POST / GET requests/responses (route handling), parse request bodies
 - Create basic middleware
 - Use the 'path' module (very similar to python's so that's greatt!!!)
+- 
